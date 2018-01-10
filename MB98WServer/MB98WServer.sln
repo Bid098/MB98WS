@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB98WServer", "MB98WServer\MB98WServer.csproj", "{B577312F-E5C9-4853-933F-F71BC0E27880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B577312F-E5C9-4853-933F-F71BC0E27880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B577312F-E5C9-4853-933F-F71BC0E27880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B577312F-E5C9-4853-933F-F71BC0E27880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B577312F-E5C9-4853-933F-F71BC0E27880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B200D42-90C2-40B5-AFEC-2F3A030391AE}
+	EndGlobalSection
+EndGlobal
