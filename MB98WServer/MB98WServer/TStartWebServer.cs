@@ -13,12 +13,12 @@ namespace TStartWebServer
     
     class TStartWebServer
     {
-        TWebServer ws = new TWebServer(SendResponse, "http://" + Dns.GetHostEntry(Dns.GetHostName()).AddressList[1].ToString() + ":8080/");
+        TWebServer ws = new TWebServer(SendResponse, "http://" + "172.16.100.52" + ":8080/");
 
         public void StartServer()
         {
             Console.ForegroundColor = ConsoleColor.DarkGreen;
-            Console.WriteLine("WebServer host in: " + Dns.GetHostEntry(Dns.GetHostName()).AddressList[1].ToString() + " port 8080");
+            Console.WriteLine("WebServer host in: " + "172.16.100.52" + " port 8080");
             Console.ResetColor();
             ws.Run();
         }
@@ -31,10 +31,10 @@ namespace TStartWebServer
             switch (request.RawUrl.Replace("/", ""))
             {
                 case ("GetHour"): { return ClientRequest.GetHour(); }
-                
+                case ("GetConfiguration"): { return ""; }
                 default:
                     {
-                        string lines = System.IO.File.ReadAllText(@"C:\ProgramData\test\Site.html");
+                        string lines = System.IO.File.ReadAllText(@"C:\Users\Marco Bidogia\Documents\C#\Corso C#\OBJ JS\OBJ.html");
                         return lines;
                     }
                     

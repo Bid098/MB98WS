@@ -5,3 +5,10 @@ C:\Users\Marco Bidogia\source\repos\MB98WServer\MB98WServer\obj\Debug\MB98WServe
 C:\Users\Marco Bidogia\source\repos\MB98WServer\MB98WServer\obj\Debug\MB98WServer.csproj.CoreCompileInputs.cache
 C:\Users\Marco Bidogia\source\repos\MB98WServer\MB98WServer\obj\Debug\MB98WServer.exe
 C:\Users\Marco Bidogia\source\repos\MB98WServer\MB98WServer\obj\Debug\MB98WServer.pdb
+C:\Users\Marco Bidogia\Documents\C#\Mine\MB98WS\MB98WServer\MB98WS\MB98WServer\MB98WServer\bin\Debug\MB98WServer.exe.config
+C:\Users\Marco Bidogia\Documents\C#\Mine\MB98WS\MB98WServer\MB98WS\MB98WServer\MB98WServer\bin\Debug\MB98WServer.exe
+C:\Users\Marco Bidogia\Documents\C#\Mine\MB98WS\MB98WServer\MB98WS\MB98WServer\MB98WServer\bin\Debug\MB98WServer.pdb
+C:\Users\Marco Bidogia\Documents\C#\Mine\MB98WS\MB98WServer\MB98WS\MB98WServer\MB98WServer\obj\Debug\MB98WServer.csprojResolveAssemblyReference.cache
+C:\Users\Marco Bidogia\Documents\C#\Mine\MB98WS\MB98WServer\MB98WS\MB98WServer\MB98WServer\obj\Debug\MB98WServer.csproj.CoreCompileInputs.cache
+C:\Users\Marco Bidogia\Documents\C#\Mine\MB98WS\MB98WServer\MB98WS\MB98WServer\MB98WServer\obj\Debug\MB98WServer.exe
+C:\Users\Marco Bidogia\Documents\C#\Mine\MB98WS\MB98WServer\MB98WS\MB98WServer\MB98WServer\obj\Debug\MB98WServer.pdb
